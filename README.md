@@ -1,2 +1,2 @@
-# GameJam
-GameJam
+# GameJamMainQuest
+GameJam - MainQuest
